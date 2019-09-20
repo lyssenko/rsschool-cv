@@ -1,0 +1,31 @@
+td {
+    padding: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+
+table {
+    width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 16px;
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+}
+
+caption {
+    font-size: 24px;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+
+.col-1,
+.col-2 {
+    vertical-align: top;
+    font-style: italic;
+    text-transform: uppercase;
+}
